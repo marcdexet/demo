@@ -1,5 +1,6 @@
 void setup() {
 	pinMode(13,OUTPUT);
+	pintMode(11,INPUT);
 }
 
 void loop() {
